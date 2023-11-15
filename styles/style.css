@@ -62,6 +62,7 @@
   
 .header__address {
     justify-self: end;
+    font-style: inherit;
 }
   
 .address__item {
